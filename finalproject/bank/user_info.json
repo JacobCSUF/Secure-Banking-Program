@@ -1,0 +1,42 @@
+{
+   "123456": {
+      "money": 77620,
+      "transactions": [
+         "Deposited $93405 at 2024-12-19 10:59:33",
+         "Deposited $10 at 2024-12-19 12:31:44",
+         "Deposited $1000 at 2024-12-19 12:32:02",
+         "Deposited $33 at 2024-12-19 12:32:22",
+         "Deposited $22 at 2024-12-19 12:32:25",
+         "Withdrawed $3 at 2024-12-19 12:32:40",
+         "Deposited $23 at 2024-12-19 12:46:52",
+         "Withdrawed $2323 at 2024-12-19 12:46:56"
+      ]
+   },
+   "654321": {
+      "money": 16072,
+      "transactions": [
+         "Deposited $3 at 2024-12-19 15:38:18",
+         "Deposited $10000 at 2024-12-19 15:55:43",
+         "Withdrawed $10 at 2024-12-19 15:56:10",
+         "Deposited $10 at 2024-12-19 16:10:09"
+      ]
+   },
+   "111111": {
+      "money": -3980,
+      "transactions": [
+         "Deposited $100 at 2024-12-19 15:54:27",
+         "Deposited $10 at 2024-12-19 15:56:30",
+         "Deposited $1000 at 2024-12-19 19:38:05",
+         "Withdrawed $90 at 2024-12-19 19:38:09"
+      ]
+   },
+   "555555": {
+      "money": -10565,
+      "transactions": [
+         "Withdrawed $100 at 2024-12-19 15:31:22",
+         "Withdrawed $800 at 2024-12-19 15:31:28",
+         "Withdrawed $10000 at 2024-12-19 15:31:33",
+         "Withdrawed $1 at 2024-12-19 15:31:36"
+      ]
+   }
+}
